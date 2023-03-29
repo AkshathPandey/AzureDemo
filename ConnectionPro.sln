@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionPro", "ConnectionPro\ConnectionPro.csproj", "{AAA22576-16C4-4101-90DA-1261DB15220B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA22576-16C4-4101-90DA-1261DB15220B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA22576-16C4-4101-90DA-1261DB15220B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA22576-16C4-4101-90DA-1261DB15220B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA22576-16C4-4101-90DA-1261DB15220B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA67DA4-63F2-4AEA-9D49-2AA93B5DF6D5}
+	EndGlobalSection
+EndGlobal
